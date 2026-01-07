@@ -21,7 +21,16 @@ to understand:
 
 The analysis supports **industry benchmarking, policy analysis, and strategic decision-making**.
 
----
+## 🧾 EXECUTIVE SUMMARY 
+
+This project analyses New Zealand industry-level financial performance and financial position over the period 2013–2024, using official data from Statistics New Zealand. The dashboard brings together income, expenditure, profitability, liquidity, and balance-sheet indicators to understand how industries have grown, how efficiently they generate profit, and how financially resilient they are.
+
+At an overall level, industries in New Zealand have shown steady growth in total income over time, with expenditure rising alongside it. While profitability has improved in recent years, it has not been uniform across industries. Financial and property-related sectors consistently emerge as high-margin industries, while many production-heavy and service-oriented industries operate on thin margins.
+
+The analysis highlights an important trade-off:
+industries with high profitability are not always the most financially stable, and industries with strong liquidity do not always generate high returns. This balance between profitability and financial safety becomes clear when viewing industries on a combined margin-vs-liquidity scatter view.
+
+A drill-through industry detail page allows stakeholders to explore full financial statements per industry, including income composition, cost structure, assets, liabilities, and key ratios. This makes the dashboard useful not just for high-level insight, but also for industry benchmarking, policy analysis, and strategic decision-making.
 
 ## 📊 Key Insights at a Glance
 
