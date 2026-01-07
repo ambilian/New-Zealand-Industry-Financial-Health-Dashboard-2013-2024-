@@ -123,7 +123,6 @@ A drill-through industry detail page allows users to explore **full financial br
    <img width="1495" height="830" alt="image" src="https://github.com/user-attachments/assets/fc56241f-1f1d-4e29-9488-f7fd81301ffa" />
 2. **Industry profitability ranking**
    <img width="1467" height="841" alt="image" src="https://github.com/user-attachments/assets/afb349bf-1ea2-4f00-9ce1-fc6307bfabf6" />
-3. **Industry drill-through detail table**
-     <img width="1163" height="844" alt="image" src="https://github.com/user-attachments/assets/6070dfa4-bf47-4fb0-89c9-cbd2cd9dd929" />
+
 
 
