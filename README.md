@@ -1,4 +1,4 @@
-# 🇳🇿 New Zealand Industry Financial Health Dashboard (2013–2024)
+#  New Zealand Industry Financial Health Dashboard (2013–2024)
 
 **Measuring profitability, growth, and financial stability across New Zealand industries**
 
@@ -96,8 +96,6 @@ A drill-through industry detail page allows users to explore **full financial br
 - Assets and liabilities
 - Profitability and liquidity ratios
 
-This enables both **high-level insights** and **granular industry benchmarking**.
-
 ---
 
 ## ✅ Key Takeaways
@@ -129,5 +127,3 @@ This enables both **high-level insights** and **granular industry benchmarking**
      <img width="1163" height="844" alt="image" src="https://github.com/user-attachments/assets/6070dfa4-bf47-4fb0-89c9-cbd2cd9dd929" />
 
 
-![Overview Dashboard](screenshots/overview.png)
-![Industry Comparison](screenshots/industry_comparison.png)
